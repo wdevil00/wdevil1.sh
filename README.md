@@ -1,1 +1,0 @@
-# wdevil1.sh
